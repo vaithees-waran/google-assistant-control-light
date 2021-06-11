@@ -3,13 +3,13 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define WIFI_SSID "Redmi"
-#define WIFI_PASS "vaithees"
+#define WIFI_SSID "xxxxxxxx"
+#define WIFI_PASS "xxxxxxxxx"
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "vaitheesw"
-#define MQTT_PASS "aio_HKxK2168BBsHYUnBKaXwQryfnO3O"
+#define MQTT_NAME "xxxxxxxx"
+#define MQTT_PASS "xxxxxxxxxxxxxxxxxxxxxxx"
 
 int led =D8;
 
